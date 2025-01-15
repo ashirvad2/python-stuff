@@ -94,4 +94,5 @@ def main():
             print("Bot is X and will go second. ")
 
 
-main()
+if __name__ == "__main__":
+    main()

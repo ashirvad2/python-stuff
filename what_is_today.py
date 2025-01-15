@@ -25,4 +25,5 @@ def main():
         print("Today might not be a holiday but it will be a great day")
 
 
-main()
+if __name__ == "__main__":
+    main()
